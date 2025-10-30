@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTSproject</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">by Hasbi Nurwahid</string>
+    <string name="food_list_title">Menu yang Tersedia di Restoboy!</string>
+</resources>
